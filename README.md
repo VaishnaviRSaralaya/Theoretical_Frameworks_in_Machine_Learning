@@ -1,1 +1,2 @@
-# Theoretical_Frameworks_in_Machine_Learning
+### Theoretical_Frameworks_in_Machine_Learning
+By Vaishnavi R Saralya and Sabha Ambrin
